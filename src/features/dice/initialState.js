@@ -76,7 +76,7 @@ export const initialState = {
     'scratched': false
   },{
     'combination': 'Double Generala',
-    'points': 20,
+    'points': 100,
     'earned': 0,
     'scratched': false
   }]
