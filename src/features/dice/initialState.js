@@ -65,7 +65,7 @@ export const initialState = {
     'earned': 0,
     'scratched': false
   },{
-    'combination': 'Four of a kind',
+    'combination': 'Four of a Kind',
     'points': 40,
     'earned': 0,
     'scratched': false
